@@ -13,12 +13,12 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<p>안녕하세요~~~ </p>
+<p>이미래 사랑해♡♡♡♡♡♡♡</p>
 <p>반갑디~~~ </p>
 <p>반갑디~~~ </p>
 <p>반갑디~~~ </p>
 <p>반갑디~~~ </p>
-<img src="./image/camera.png" alt="">
-<img src="./image/rabit.gif" alt="">
+<img src="./image/KakaoTalk_20231018_154709970_01.jpg" alt="">
+<img src="./image/KakaoTalk_20231018_154709970_02.jpg" alt="">
 </body>
 </html>
