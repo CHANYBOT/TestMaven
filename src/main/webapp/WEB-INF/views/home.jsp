@@ -14,6 +14,11 @@
 <P>  The time on the server is ${serverTime}. </P>
 
 <p>안녕하세요~~~ </p>
+<p>반갑디~~~ </p>
+<p>반갑디~~~ </p>
+<p>반갑디~~~ </p>
+<p>반갑디~~~ </p>
+<img src="./image/camera.png" alt="">
 <img src="./image/rabit.gif" alt="">
 </body>
 </html>
